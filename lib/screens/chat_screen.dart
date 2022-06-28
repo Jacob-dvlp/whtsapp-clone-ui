@@ -50,7 +50,7 @@ class _ChatScreenState extends State<ChatScreen> {
         avatarUrl: priscila),
     ChatModel(
         name: "Gunther",
-        message: "Oh, Rachel.",
+        message: "Oh",
         timeStamp: "19:30",
         messageUpdate: '1',
         avatarUrl: guntAvatar),
@@ -67,14 +67,14 @@ class _ChatScreenState extends State<ChatScreen> {
         messageUpdate: '1',
         avatarUrl: lazaro),
     ChatModel(
-        name: "Richard Burke",
-        message: '',
+        name: "Jessica",
+        message: 'Ok',
         timeStamp: "2/5/97",
         messageUpdate: '1',
         avatarUrl: guntAvatar),
     ChatModel(
-        name: "Estelle",
-        message: 'Its Estelle.',
+        name: "Maria",
+        message: '🤔🤔',
         timeStamp: "2/5/97",
         messageUpdate: '1',
         avatarUrl: guntAvatar),

@@ -2,7 +2,8 @@
 
 
 
-![img1](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/img1.png)
-
-![img2](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/img2.png)
-![img3](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/img3.png)
+![image1](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/image1.png)
+![image2](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/image2.png)
+![image3](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/image3.png)
+![image4](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/image4.png)
+![image5](https://github.com/Jacob-dvlp/whtsapp-clone-ui/blob/master/image5.png)
