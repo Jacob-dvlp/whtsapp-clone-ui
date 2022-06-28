@@ -23,7 +23,7 @@ class StatusScreen extends StatelessWidget {
                   children: <Widget>[
                     const CircleAvatar(
                       radius: 25,
-                      backgroundImage: NetworkImage(noAvatar),
+                      backgroundImage: NetworkImage(my),
                     ),
                     Positioned(
                       bottom: 0.0,
@@ -69,27 +69,27 @@ class StatusScreen extends StatelessWidget {
               child: ListView(
                 children: <Widget>[
                   StatusList(
-                    image: const NetworkImage(pheebsAvatar),
+                    image: const NetworkImage(eliezerAnto),
                     name: const Text(
-                      "Pheobe Buffay",
+                      "Eliezer António",
                       style: TextStyle(fontWeight: FontWeight.bold),
                     ),
                     subtitle: const Text('23 minutes ago',
                         style: TextStyle(fontWeight: FontWeight.w500)),
                   ),
                   StatusList(
-                    image: const NetworkImage(monicaAvatar),
+                    image: const NetworkImage(mario),
                     name: const Text(
-                      "Monica Geller",
+                      "Mario Montiero",
                       style: TextStyle(fontWeight: FontWeight.bold),
                     ),
                     subtitle: const Text('24 minutes ago',
                         style: TextStyle(fontWeight: FontWeight.w500)),
                   ),
                   StatusList(
-                    image: const NetworkImage(rossAvatar),
+                    image: const NetworkImage(nilton),
                     name: const Text(
-                      "Ross Geller",
+                      "Nilton Domingos",
                       style: TextStyle(fontWeight: FontWeight.bold),
                     ),
                     subtitle: const Text(

@@ -13,41 +13,41 @@ class ChatScreen extends StatefulWidget {
 class _ChatScreenState extends State<ChatScreen> {
   List<ChatModel> dummyData = [
     ChatModel(
-        name: "Jessica",
-        message: "Ola!",
+        name: "Eliezer António",
+        message: "Como vai bro ?",
         timeStamp: "15:30 PM",
         messageUpdate: '1',
-        avatarUrl: monicaAvatar),
+        avatarUrl: eliezerAnto),
     ChatModel(
-        name: "Patrik",
-        message: "Boa noite!",
+        name: "Mario Monteiro",
+        message: "Meu brother",
         timeStamp: "16:30 PM",
         messageUpdate: '1',
-        avatarUrl: rossAvatar),
+        avatarUrl: mario),
     ChatModel(
-        name: "Maria",
-        message: "💔🥺",
+        name: "Nilton Domingos",
+        message: "Resolveu o bug ?",
         timeStamp: "16:40 PM",
         messageUpdate: '1',
-        avatarUrl: bingAvatar),
+        avatarUrl: nilton),
     ChatModel(
-        name: "Rosa",
-        message: "oK",
+        name: "Nicolau João II",
+        message: "Wey ?",
         timeStamp: "17:30 PM",
         messageUpdate: '1',
-        avatarUrl: rachAvatar),
+        avatarUrl: nicolau),
     ChatModel(
-        name: "Joey Tribbiani",
-        message: "Hello Joey ",
+        name: "Ladis Valentino",
+        message: "Vem  wey",
         timeStamp: "18:00 PM",
         messageUpdate: '1',
-        avatarUrl: joeAvatar),
+        avatarUrl: cassinda),
     ChatModel(
-        name: "Pheobe Buffay",
-        message: "I can sense the spirit of my dead grandmother in this room.",
+        name: "Amor",
+        message: "🥰🥰🥰",
         timeStamp: "19:30 PM",
         messageUpdate: '1',
-        avatarUrl: pheebsAvatar),
+        avatarUrl: priscila),
     ChatModel(
         name: "Gunther",
         message: "Oh, Rachel.",
@@ -61,23 +61,23 @@ class _ChatScreenState extends State<ChatScreen> {
         messageUpdate: '1',
         avatarUrl: janiceAvatar),
     ChatModel(
-        name: "Mike Hannigan",
-        message: '',
+        name: "Lázaro Manuel",
+        message: 'Wey me liga',
         timeStamp: "19:30 PM",
         messageUpdate: '1',
-        avatarUrl: noAvatar),
+        avatarUrl: lazaro),
     ChatModel(
         name: "Richard Burke",
         message: '',
         timeStamp: "2/5/97",
         messageUpdate: '1',
-        avatarUrl: noAvatar),
+        avatarUrl: guntAvatar),
     ChatModel(
         name: "Estelle",
         message: 'Its Estelle.',
         timeStamp: "2/5/97",
         messageUpdate: '1',
-        avatarUrl: noAvatar),
+        avatarUrl: guntAvatar),
   ];
 
   @override

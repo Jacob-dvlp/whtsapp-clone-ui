@@ -11,13 +11,13 @@ class CallScreen extends StatelessWidget {
         ListTile(
           leading: const CircleAvatar(
             radius: 30,
-            backgroundImage: NetworkImage(janiceAvatar),
+            backgroundImage: NetworkImage(mario),
           ),
           title: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: const [
               Text(
-                "Janice",
+                "Mario Monteiro",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               Icon(
@@ -37,20 +37,20 @@ class CallScreen extends StatelessWidget {
               SizedBox(
                 width: 2.0,
               ),
-              Text('(9) March 5, 9:52PM'),
+              Text('(2)  9:52PM'),
             ],
           ),
         ),
         ListTile(
           leading: const CircleAvatar(
             radius: 30,
-            backgroundImage: NetworkImage(pheebsAvatar),
+            backgroundImage: NetworkImage(nilton),
           ),
           title: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: const [
               Text(
-                "Pheobe Buffay",
+                "Nilton Domingos",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               Icon(
@@ -70,7 +70,7 @@ class CallScreen extends StatelessWidget {
               SizedBox(
                 width: 2.0,
               ),
-              Text('January 27, 1:00PM'),
+              Text('1:00PM'),
             ],
           ),
         ),
